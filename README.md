@@ -11,7 +11,8 @@
 
 - 👯All Questions about [PicoBricks](https://community.robotistan.com/discussions)
 
-- 💬 Ask me about **PicoBricks Projects**
+- 💬 Ask me about **PicoBricks Projects** and **REX 8in1**
+
 
 - 📫 How to reach me **mehmetali.dag@robotistan.com**
 
