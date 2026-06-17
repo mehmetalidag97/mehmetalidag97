@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amet7&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetalidag" /> </p>
 
 
-- 🔭 I’m currently working on [Robotistan](https://shop.robotistan.com/)
-
 - 📝 We regularly write articles on [Blog](https://maker.robotistan.com/)
 
 - 👯All Questions about [PicoBricks](https://community.robotistan.com/discussions)
